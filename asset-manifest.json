@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.305e470b.chunk.css",
-    "main.js": "/static/js/main.86666f12.chunk.js",
-    "main.js.map": "/static/js/main.86666f12.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.760204cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.760204cc.js.map",
-    "static/js/2.0ee106d3.chunk.js": "/static/js/2.0ee106d3.chunk.js",
-    "static/js/2.0ee106d3.chunk.js.map": "/static/js/2.0ee106d3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d46723de8236620e4d2952f766002ded.js": "/precache-manifest.d46723de8236620e4d2952f766002ded.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.305e470b.chunk.css.map": "/static/css/main.305e470b.chunk.css.map",
-    "static/js/2.0ee106d3.chunk.js.LICENSE": "/static/js/2.0ee106d3.chunk.js.LICENSE",
-    "static/media/Background.css": "/static/media/bck_img3.667440e1.jpg",
-    "static/media/logo.png": "/static/media/logo.f15a12cb.png"
+    "main.css": "/b-mercy-juice/static/css/main.be14b030.chunk.css",
+    "main.js": "/b-mercy-juice/static/js/main.86666f12.chunk.js",
+    "main.js.map": "/b-mercy-juice/static/js/main.86666f12.chunk.js.map",
+    "runtime-main.js": "/b-mercy-juice/static/js/runtime-main.e1e8aed4.js",
+    "runtime-main.js.map": "/b-mercy-juice/static/js/runtime-main.e1e8aed4.js.map",
+    "static/js/2.0ee106d3.chunk.js": "/b-mercy-juice/static/js/2.0ee106d3.chunk.js",
+    "static/js/2.0ee106d3.chunk.js.map": "/b-mercy-juice/static/js/2.0ee106d3.chunk.js.map",
+    "index.html": "/b-mercy-juice/index.html",
+    "precache-manifest.343082c1f2aa5d6a0355ed186214b712.js": "/b-mercy-juice/precache-manifest.343082c1f2aa5d6a0355ed186214b712.js",
+    "service-worker.js": "/b-mercy-juice/service-worker.js",
+    "static/css/main.be14b030.chunk.css.map": "/b-mercy-juice/static/css/main.be14b030.chunk.css.map",
+    "static/js/2.0ee106d3.chunk.js.LICENSE": "/b-mercy-juice/static/js/2.0ee106d3.chunk.js.LICENSE",
+    "static/media/Background.css": "/b-mercy-juice/static/media/bck_img3.667440e1.jpg",
+    "static/media/logo.png": "/b-mercy-juice/static/media/logo.f15a12cb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.760204cc.js",
+    "static/js/runtime-main.e1e8aed4.js",
     "static/js/2.0ee106d3.chunk.js",
-    "static/css/main.305e470b.chunk.css",
+    "static/css/main.be14b030.chunk.css",
     "static/js/main.86666f12.chunk.js"
   ]
 }
